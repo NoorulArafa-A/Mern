@@ -1,0 +1,51 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: "Roboto", serif;
+    color: white;
+}
+
+.todo{
+    height: 700px;
+    width: 367px;
+    margin-left: 750px;
+    margin-top: 120px;
+    background-image: url(https://ik.imagekit.io/4z8covdo9/Full%20stack/todolistbg.png?updatedAt=1700761069523);
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+    padding-top: 4px;
+    font-size: 40px;
+}
+
+.description{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    
+}
+
+h5{
+    padding-bottom: 20px;
+    font-size: 15px;
+    padding-left: 3px;
+}
+p{
+    padding-bottom: 15px;
+    padding-left: 3px;
+}
+
+button{
+    background-color: orange;
+    padding: 5px 15px;
+    margin-left: 150px;
+    margin-bottom: 5px;
+
+}
+a{
+    padding-left: 135px;
+    font-size: 10px;
+    
+}
